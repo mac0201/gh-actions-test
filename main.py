@@ -1,5 +1,5 @@
-import os
 import math
+import os
 
 
 def fun1(a, b, c) -> int:
@@ -11,7 +11,7 @@ def fun2(a, b) -> str:
 
 
 def fun3(a) -> int:
-    return a / 4
+    return a
 
 
-print('hello')
+print("hello")
