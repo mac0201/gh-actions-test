@@ -8,3 +8,6 @@ def fun1(a, b, c) -> str:
 
 def fun2(a, b) -> int:
     return os.getcwd()
+
+
+print('hello')
